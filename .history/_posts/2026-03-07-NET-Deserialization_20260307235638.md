@@ -1,0 +1,13 @@
+---
+layout: post
+title: Basic .NET Deserialization, Debugging, and some CVEs of C1 CMS
+tags: [.NET deserialization, CVE-2019-18211, CVE-2021-34992, C1CMS]
+---
+
+## Description
+Below are some findings from my 2022 research. It might be incomplete, but I hope you find it helpful!
+
+![_config.yml]({{ site.baseurl }}/NET/NET_Deserialization.pdf)
+- Require valid layout.master, theme.skin file
+- error.htm is payload file we want overwrited. 
+
