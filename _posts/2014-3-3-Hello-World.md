@@ -3,7 +3,6 @@ layout: post
 title: Zipslip in MojoPortal version 2.9.0.1
 ---
 
-# Zipslip in MojoPortal version 2.9.0.1
 ## Vulnerability Description
 The application extracts archive entries without properly validating or sanitizing the file paths contained within the archive. When the application extracts the archive, these malicious paths allow files to be written outside of the intended destination directory. 
 
