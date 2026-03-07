@@ -21,14 +21,14 @@ footer-links:
   email: 
   facebook:
   flickr:
-  github: https://github.com/kid-tnt
+  github: /kid-tnt
   instagram:
-  linkedin: https://www.linkedin.com/in/thang-ngo-6b93ba224/
+  linkedin: /thang-ngo-6b93ba224
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: https://www.youtube.com/@ngovanthang8150
+  youtube: @ngovanthang8150
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
