@@ -15,3 +15,9 @@ layout: default
 
   {% include disqus.html %}
 </article>
+<div class="post-tags">
+  Tags: 
+  {% for tag in page.tags %}
+    <span class="tag">{{ tag }}</span>
+  {% endfor %}
+</div>
